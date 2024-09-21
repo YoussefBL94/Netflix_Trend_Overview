@@ -1,5 +1,6 @@
-# **Netflix Dashboard Project**
 [Netlix Overview Dashboard](https://public.tableau.com/app/profile/youssef.ben.laroussi/viz/NetflixOverviewYoussef/NetflixDashboard)
+
+![](Screenflix.png)
 
 ## *Overview*
 This project focuses on creating an interactive dashboard that analyzes Netflix data, sourced from publicly available datasets. The dashboard presents various visualizations such as world maps, bar charts, and line charts to provide insights into Netflix's movie and series catalog. Users can explore data related to ratings, release year, genre, directors, and more.
